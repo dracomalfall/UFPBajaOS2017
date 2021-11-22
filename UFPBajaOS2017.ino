@@ -223,7 +223,7 @@ void loop()
               tela[5]=0;
               tela[6]=0;
               tela[7]=1;}
-            if (dezena=2){  //escreve o 2 na casa da dezenadezena
+            if (dezena=2){  //escreve o 2 na casa da dezena
               tela[1]=1;
               tela[2]=0;
               tela[3]=0;
